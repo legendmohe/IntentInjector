@@ -36,3 +36,18 @@
     }
 
 要求方法为public，仅有一个参数。
+
+# 使用方法
+
+## Gradle
+
+    compile 'com.legendmohe.maven:intentinjector:0.1'
+    
+## maven
+
+    <dependency>
+      <groupId>com.legendmohe.maven</groupId>
+      <artifactId>intentinjector</artifactId>
+      <version>0.1</version>
+      <type>pom</type>
+    </dependency>
