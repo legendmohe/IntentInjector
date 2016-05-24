@@ -1,3 +1,7 @@
+# What's new
+
+2016.5.24 version 0.5: 新增TextView支持，详见example
+
 # IntentInjector
 
 做app的时候，经常遇到这样的需求：将数据放置在Intent中，再通过startActivity方法传给下一个Activity。常用写法如下所示：
