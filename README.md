@@ -45,7 +45,7 @@
 
 ## Gradle
 
-    compile 'com.legendmohe.maven:intentinjector:0.1'
+    compile 'com.legendmohe.maven:intentinjector:0.5'
     
 ## maven
 
